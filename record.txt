@@ -1,0 +1,147 @@
+[INFO] using token from hugging face webset`.
+[INFO] loading stable diffusion...
+/home/yzq/.cache/huggingface/hub
+sasa
+/home/yzq/.cache/huggingface/hub
+sasa
+[INFO] loaded stable diffusion!
+0 : tensor(118264.0781, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+saved model at 0 iteration;
+100 : tensor(17566.8672, device='cuda:0', grad_fn=<SumBackward0>)
+200 : tensor(36455.4609, device='cuda:0', grad_fn=<SumBackward0>)
+300 : tensor(5137.4771, device='cuda:0', grad_fn=<SumBackward0>)
+400 : tensor(3653.2104, device='cuda:0', grad_fn=<SumBackward0>)
+500 : tensor(26115.6797, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+600 : tensor(18474.6484, device='cuda:0', grad_fn=<SumBackward0>)
+700 : tensor(3692.1831, device='cuda:0', grad_fn=<SumBackward0>)
+800 : tensor(70200.6719, device='cuda:0', grad_fn=<SumBackward0>)
+900 : tensor(115046.8281, device='cuda:0', grad_fn=<SumBackward0>)
+1000 : tensor(1251.8005, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+1100 : tensor(93596.4531, device='cuda:0', grad_fn=<SumBackward0>)
+1200 : tensor(96826.3203, device='cuda:0', grad_fn=<SumBackward0>)
+1300 : tensor(52497.2656, device='cuda:0', grad_fn=<SumBackward0>)
+1400 : tensor(144932.9219, device='cuda:0', grad_fn=<SumBackward0>)
+1500 : tensor(124069.1562, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+1600 : tensor(64396.3203, device='cuda:0', grad_fn=<SumBackward0>)
+1700 : tensor(10447.2217, device='cuda:0', grad_fn=<SumBackward0>)
+1800 : tensor(8606.7734, device='cuda:0', grad_fn=<SumBackward0>)
+1900 : tensor(80973.3281, device='cuda:0', grad_fn=<SumBackward0>)
+2000 : tensor(13424.0586, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+2100 : tensor(205551.4844, device='cuda:0', grad_fn=<SumBackward0>)
+2200 : tensor(18117.9512, device='cuda:0', grad_fn=<SumBackward0>)
+2300 : tensor(23207.7656, device='cuda:0', grad_fn=<SumBackward0>)
+2400 : tensor(23464.2305, device='cuda:0', grad_fn=<SumBackward0>)
+2500 : tensor(93950.9844, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+2600 : tensor(1230.7357, device='cuda:0', grad_fn=<SumBackward0>)
+2700 : tensor(56038.2969, device='cuda:0', grad_fn=<SumBackward0>)
+2800 : tensor(82389.0938, device='cuda:0', grad_fn=<SumBackward0>)
+2900 : tensor(20706.4180, device='cuda:0', grad_fn=<SumBackward0>)
+3000 : tensor(90235.1094, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+saved model at 3000 iteration;
+3100 : tensor(151497.8125, device='cuda:0', grad_fn=<SumBackward0>)
+3200 : tensor(1217.0430, device='cuda:0', grad_fn=<SumBackward0>)
+3300 : tensor(21835.7754, device='cuda:0', grad_fn=<SumBackward0>)
+3400 : tensor(102066.6875, device='cuda:0', grad_fn=<SumBackward0>)
+3500 : tensor(14261.6270, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+3600 : tensor(71210.3906, device='cuda:0', grad_fn=<SumBackward0>)
+3700 : tensor(115884.3516, device='cuda:0', grad_fn=<SumBackward0>)
+3800 : tensor(57661.1328, device='cuda:0', grad_fn=<SumBackward0>)
+3900 : tensor(33674.6562, device='cuda:0', grad_fn=<SumBackward0>)
+4000 : tensor(3107.0938, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+4100 : tensor(117442.5391, device='cuda:0', grad_fn=<SumBackward0>)
+4200 : tensor(4021.0039, device='cuda:0', grad_fn=<SumBackward0>)
+4300 : tensor(31148.9355, device='cuda:0', grad_fn=<SumBackward0>)
+4400 : tensor(51700.1016, device='cuda:0', grad_fn=<SumBackward0>)
+4500 : tensor(65145.1016, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+4600 : tensor(18346.4727, device='cuda:0', grad_fn=<SumBackward0>)
+4700 : tensor(2498.2014, device='cuda:0', grad_fn=<SumBackward0>)
+4800 : tensor(47118.0352, device='cuda:0', grad_fn=<SumBackward0>)
+4900 : tensor(32204.9219, device='cuda:0', grad_fn=<SumBackward0>)
+5000 : tensor(8397.3945, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+5100 : tensor(125288.0781, device='cuda:0', grad_fn=<SumBackward0>)
+5200 : tensor(65939.1953, device='cuda:0', grad_fn=<SumBackward0>)
+5300 : tensor(2207.1028, device='cuda:0', grad_fn=<SumBackward0>)
+5400 : tensor(43797.7148, device='cuda:0', grad_fn=<SumBackward0>)
+5500 : tensor(66768.8594, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+5600 : tensor(74706.2344, device='cuda:0', grad_fn=<SumBackward0>)
+5700 : tensor(40099.2734, device='cuda:0', grad_fn=<SumBackward0>)
+5800 : tensor(17753.0586, device='cuda:0', grad_fn=<SumBackward0>)
+5900 : tensor(67703.5625, device='cuda:0', grad_fn=<SumBackward0>)
+6000 : tensor(5816.2329, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+saved model at 6000 iteration;
+6100 : tensor(38759.1367, device='cuda:0', grad_fn=<SumBackward0>)
+6200 : tensor(486.0541, device='cuda:0', grad_fn=<SumBackward0>)
+6300 : tensor(11189.6973, device='cuda:0', grad_fn=<SumBackward0>)
+6400 : tensor(117640.2422, device='cuda:0', grad_fn=<SumBackward0>)
+6500 : tensor(12608.1738, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+6600 : tensor(10470.8398, device='cuda:0', grad_fn=<SumBackward0>)
+6700 : tensor(117692.3594, device='cuda:0', grad_fn=<SumBackward0>)
+6800 : tensor(34010.0234, device='cuda:0', grad_fn=<SumBackward0>)
+6900 : tensor(45320.2695, device='cuda:0', grad_fn=<SumBackward0>)
+7000 : tensor(10176.7363, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+7100 : tensor(1983.2496, device='cuda:0', grad_fn=<SumBackward0>)
+7200 : tensor(15979.8555, device='cuda:0', grad_fn=<SumBackward0>)
+7300 : tensor(31809.5391, device='cuda:0', grad_fn=<SumBackward0>)
+7400 : tensor(29381.8281, device='cuda:0', grad_fn=<SumBackward0>)
+7500 : tensor(4582.2471, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+7600 : tensor(33198.4102, device='cuda:0', grad_fn=<SumBackward0>)
+7700 : tensor(78659.8438, device='cuda:0', grad_fn=<SumBackward0>)
+7800 : tensor(3387.2761, device='cuda:0', grad_fn=<SumBackward0>)
+7900 : tensor(8323.0176, device='cuda:0', grad_fn=<SumBackward0>)
+8000 : tensor(40569.9844, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+8100 : tensor(75740.9766, device='cuda:0', grad_fn=<SumBackward0>)
+8200 : tensor(23310.0859, device='cuda:0', grad_fn=<SumBackward0>)
+8300 : tensor(16198.6426, device='cuda:0', grad_fn=<SumBackward0>)
+8400 : tensor(4070.6128, device='cuda:0', grad_fn=<SumBackward0>)
+8500 : tensor(976.3187, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+8600 : tensor(79493.6562, device='cuda:0', grad_fn=<SumBackward0>)
+8700 : tensor(59636.4531, device='cuda:0', grad_fn=<SumBackward0>)
+8800 : tensor(68799.4219, device='cuda:0', grad_fn=<SumBackward0>)
+8900 : tensor(69327.0156, device='cuda:0', grad_fn=<SumBackward0>)
+9000 : tensor(44175.8281, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+saved model at 9000 iteration;
+9100 : tensor(38479.9727, device='cuda:0', grad_fn=<SumBackward0>)
+9200 : tensor(768.4510, device='cuda:0', grad_fn=<SumBackward0>)
+9300 : tensor(31531.1387, device='cuda:0', grad_fn=<SumBackward0>)
+9400 : tensor(33144.7812, device='cuda:0', grad_fn=<SumBackward0>)
+9500 : tensor(3128.1309, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+9600 : tensor(65420.8203, device='cuda:0', grad_fn=<SumBackward0>)
+9700 : tensor(41760.9844, device='cuda:0', grad_fn=<SumBackward0>)
+9800 : tensor(77870.7969, device='cuda:0', grad_fn=<SumBackward0>)
+9900 : tensor(1453.6304, device='cuda:0', grad_fn=<SumBackward0>)
+10000 : tensor(6823.1084, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+10100 : tensor(18910.8730, device='cuda:0', grad_fn=<SumBackward0>)
+10200 : tensor(14166.0879, device='cuda:0', grad_fn=<SumBackward0>)
+10300 : tensor(24525.6953, device='cuda:0', grad_fn=<SumBackward0>)
+10400 : tensor(59355.5469, device='cuda:0', grad_fn=<SumBackward0>)
+10500 : tensor(47067.1719, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+10600 : tensor(13529.4199, device='cuda:0', grad_fn=<SumBackward0>)
+10700 : tensor(98546.3750, device='cuda:0', grad_fn=<SumBackward0>)
+10800 : tensor(21679.3184, device='cuda:0', grad_fn=<SumBackward0>)
+10900 : tensor(1424.9551, device='cuda:0', grad_fn=<SumBackward0>)
+11000 : tensor(16427.9375, device='cuda:0', grad_fn=<SumBackward0>)
+threshold: 0.0
+11100 : tensor(79938.1719, device='cuda:0', grad_fn=<SumBackward0>)
+11200 : tensor(93703.9062, device='cuda:0', grad_fn=<SumBackward0>)
